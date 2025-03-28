@@ -1,0 +1,10 @@
+fonts.........................................................................................
+
+play fair display
+font-family: "Playfair Display", serif;
+
+clicker
+font-family: "Clicker Script", cursive;
+
+colors.........................................................................................
+

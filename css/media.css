@@ -1,0 +1,585 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*header start*/
+.menu ul li a, .navbar-nav .nav-link.active {
+    margin: 0px 30px -10px;
+}
+.btnx {
+    padding: 8px 20px;
+}
+.h_text {
+    padding: 20px 0;
+}
+.htp {
+    font-size: 14px;
+}
+.head_h1 {
+    font-size: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px !important;
+}
+.htpg {
+    font-size: 12px;
+    line-height: 12px;
+ }
+/*discover start*/
+ .discover {
+    padding: 10px 0;
+}
+.d_text{
+    text-align: center;
+}
+.cof {
+    font-size: 18px;
+}
+.bl {
+    font-size: 12px;
+    line-height: 15px;
+    margin: 10px 0 10px !important;
+}
+/*enjoy start*/
+.enjoy, .different, .feedback {
+    padding: 20px 0;
+}
+.car_x, .cb_p {
+    margin: 20px auto;
+}
+.side_img {
+    margin: -40px 0 -100px;
+}
+.sidex_img {
+    margin: -15px 0 -170px;
+}
+.l_text {
+    margin: 5px 0;
+}
+.lt_p {
+    font-size: 14px;
+    margin: 10px 0 5px !important;
+}
+.btnx_p2 {
+    margin: 5px 0 5px;
+}
+/*chance start*/
+.chance_text h1, .chance_text h2{
+    font-size: 16px;
+
+}
+.chance_text p {
+    font-size: 12px;
+    line-height: 8px;
+}
+.chance_text {
+        padding: 20px 0;
+        text-align: center;
+    }
+.chance_img {
+        margin: 25px 0 5px;
+        padding: 0px 100px 1px;
+    }
+/*slide start*/
+.box{
+    margin-top: 20px;
+}
+.box_up h1{
+    font-size: 50px;
+    line-height: 30px;
+ }
+ .box_middle p {
+    font-size: 12px;
+    line-height: 15px;
+}
+.box_down h1{
+    font-size: 18px;
+}
+.box_down p{
+    font-size: 14px;
+}
+.btn_slide {
+    display: none;
+    }
+.slide_img{
+   margin: -60px 0px 0px;
+}
+.slide_img img {
+    width: 30%;
+}
+
+/*news start*/
+.ct {
+    padding: 0px 0px;
+    height: 40vh;
+}
+.wh{
+    font-size: 18px;
+}
+.whp{
+    font-size: 12px;
+}
+.cus_f{
+    height: 30px;
+    width: 270px;
+    font-size: 13px;
+
+}
+.btx{
+    height: 31px;
+    margin-left: 62%;
+    margin-top: -31px;
+    font-size: 13px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/*footer start*/
+footer{
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 50px;
+}
+.foot_color {
+    top: 85%;
+}
+.f_list {
+    padding: 15px 0;
+}
+.f_list h1 {
+    font-size: 20px;
+    margin-bottom: 15px !important;
+}
+.f_list ul li a {
+    font-size: 16px;
+    line-height: 15px;
+}
+.f_h1{
+    font-size: 45px;
+}
+.f_p{
+    font-size: 12px;
+}
+.icon {
+    display: inline !important;
+    }
+.list-inline-item {
+    display: block;
+}
+
+}
+
+
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*com css*/
+ .enjoy, .different, .feedback, .discover, .news {
+    padding: 20px 0;
+}
+.news{
+    padding-bottom: 20px !important;
+}
+/*header start*/
+.btnx {
+    padding: 8px 20px;
+}
+.h_text {
+    padding: 40px 0;
+}
+.htp {
+    font-size: 14px;
+}
+.head_h1 {
+    font-size: 100px;
+}
+.htpg {
+    font-size: 14px;
+    line-height: 20px;
+ }
+ /*discover start*/
+.cof {
+    font-size: 20px;
+}
+.bl {
+    font-size: 12px;
+    line-height: 15px;
+    margin: 10px 0 10px !important;
+}
+/*enjoy start*/
+.car_x {
+    margin: 20px auto;
+}
+.side_img {
+    margin: -60px 0 -100px;
+}
+/*different start*/
+.cb_p {
+    margin: 20px 0;
+}
+.sidex_img {
+    margin: -30px 0 -170px;
+}
+.l_text {
+    margin: 10px 0;
+}
+.lt_p {
+    font-size: 16px;
+    margin: 10px 0 5px !important;
+}
+.lt_h1 {
+    font-size: 28px !important;
+}
+.btnx_p2 {
+    margin: 10px 0 10px;
+}
+/*chance start*/
+.chance_text h1, .chance_text h2{
+    font-size: 18px;
+
+}
+.chance_text p {
+    font-size: 14px;
+    line-height: 8px;
+}
+.chance_text {
+    padding: 20px 0;
+}
+/*slide start*/
+.box{
+    margin-top: 20px;
+}
+.box_up h1{
+    font-size: 50px;
+    line-height: 30px;
+ }
+ .box_middle p {
+    font-size: 14px;
+    line-height: 20px;
+}
+.box_down h1{
+    font-size: 22px;
+    margin-bottom: 0px !important;
+}
+.box_down p{
+    font-size: 14px;
+}
+.btn_slide {
+    margin: 30% -25px;
+}
+.slide_img{
+   margin: -60px 0px 0px
+}
+.slide_img img {
+    width: 20%;
+}
+/*news start*/
+.ct {
+    padding: 0px 0px;
+    height: 40vh;
+}
+.wh{
+    font-size: 28px;
+}
+.whp{
+    font-size: 14px;
+}
+.cus_f{
+    height: 50px;
+    width: 400px;
+    font-size: 15px;
+
+}
+.btx{
+    height: 51px;
+    margin-left: 72%;
+    margin-top: -80px;
+    font-size: 18px;
+}
+/*footer start*/
+footer{
+    text-align: center;
+    padding: 40px 0;
+}
+.foot_color {
+    top: 80%;
+}
+.f_list {
+    padding: 20px 0;
+}
+.f_list h1 {
+    margin-bottom: 20px !important;
+}
+.f_list ul li a {
+    line-height: 30px;
+}
+.icon {
+    display: inline !important;
+    }
+.list-inline-item {
+    display: block;
+}
+ }
+
+
+
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*common*/
+.enjoy, .different, .feedback, .discover  {
+    padding: 30px 0;
+}
+
+/*header start*/
+.btnx {
+    padding: 8px 20px;
+}
+.h_text {
+    padding: 80px 0;
+}
+.htp {
+    font-size: 16px;
+}
+.head_h1 {
+    font-size: 150px;
+}
+.htpg {
+    font-size: 16px;
+    line-height: 20px;
+ }
+ /*discover start*/
+.cof {
+    font-size: 30px;
+}
+.bl {
+    font-size: 14px;
+    line-height: 20px;
+    margin: 10px 0 10px !important;
+}
+/*enjoy start*/
+.car_x{
+    margin: 20px auto;
+}
+.side_img {
+    margin: -70px 0 -100px;
+}
+/*different start*/
+.cb_p {
+    margin: 20px 0;
+}
+.sidex_img {
+    margin: 15px 0 -170px;
+}
+.l_text {
+    margin: 10px 0;
+}
+.lt_p {
+    font-size: 20px;
+    margin: 20px 0 5px !important;
+}
+.btnx_p2 {
+    margin: 15px 0 15px;
+}
+/*chance start*/
+.chance_text h1, .chance_text h2{
+    font-size: 28px;
+
+}
+.chance_text p {
+    font-size: 16px;
+    line-height: 10px;
+}
+/*slide start*/
+.box{
+    margin-top: 20px;
+}
+.box_up h1{
+    font-size: 100px;
+    line-height: 50px;
+ }
+ .box_middle p {
+    font-size: 16px;
+    line-height: 30px;
+}
+.box_down h1{
+    font-size: 30px;
+}
+.box_down p{
+    font-size: 16px;
+}
+/*news start*/
+.ct {
+    padding: 10px 0px;
+    height: 50vh;
+}
+.wh{
+    font-size: 35px;
+}
+.whp{
+    font-size: 16px;
+}
+.cus_f{
+    height: 50px;
+    width: 550px;
+    font-size: 15px;
+
+}
+.btx{
+    height: 51px;
+    margin-left: 72%;
+    margin-top: -80px;
+    font-size: 18px;
+}
+
+/*footer start*/
+footer{
+    text-align: center;
+    padding: 40px 0;
+}
+.foot_color {
+    top: 65%;
+}
+.f_list {
+    padding: 20px 0;
+}
+.f_list h1 {
+    margin-bottom: 20px !important;
+}
+.f_list ul li a {
+    line-height: 30px;
+}
+.icon {
+    display: inline !important;
+    }
+.list-inline-item {
+    display: block;
+}
+
+}
+
+
+
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*header start*/
+.btnx {
+    padding: 8px 20px;
+}
+/*discover start*/
+.cof {
+    font-size: 45px;
+}
+.bl {
+    font-size: 16px;
+    line-height: 25px;
+    margin: 20px 0 20px !important;
+}
+/*enjoy start*/
+.car_x {
+    margin: 20px auto;
+}
+.side_img {
+    margin: -65px 0 -100px;
+}
+/*different start*/
+.cb_p {
+    margin: 20px 0;
+}
+.sidex_img {
+    margin: 35px 0 -190px;
+}
+/*slide start*/
+.box_up h1{
+    font-size: 100px;
+    line-height: 50px;
+ }
+ .box_middle p {
+    font-size: 16px;
+    line-height: 30px;
+}
+.box_down h1{
+    font-size: 30px;
+}
+.box_down p{
+    font-size: 16px;
+}
+/*news start*/
+.ct {
+    padding: 20px 0px;
+    height: 65vh;
+}
+.wh{
+    font-size: 42px;
+}
+.whp{
+    font-size: 20px;
+}
+.cus_f {
+    font-size: 18px;
+}
+
+.btnx {
+        padding: 8px 43px;
+        font-size: 18px;
+    }
+.foot_color {
+    top: 30%;
+}
+ }
+
+
+
+
+ /*Extra Large devices (desktops, 992px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+/*header start*/
+.btnx {
+    padding: 8px 20px;
+}
+/*enjoy start*/
+.car_x {
+    padding: 20px 15px 25px;
+}
+.side_img {
+        margin: -70px 0 -100px;
+    }
+.sidex_img {
+    margin: 0px 0 -180px;
+}
+/*slide start*/
+.box_up h1{
+    font-size: 100px;
+    line-height: 50px;
+ }
+ .box_middle p {
+    font-size: 16px;
+    line-height: 30px;
+}
+.box_down h1{
+    font-size: 30px;
+}
+.box_down p{
+    font-size: 16px;
+}
+.foot_color {
+    top: 8%;
+}
+}
+
+
+
+
+/*Extra Extra large (XXL) devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) { 
+.side_img {
+    margin: -110px 0 -110px;
+}
+.sidex_img{
+    margin: -40px 0 -170px;
+}
+
+.foot_color {
+    top: -15%;
+}
+ }
